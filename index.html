@@ -52,11 +52,45 @@
     .mapboxgl-popup.light-popup .mapboxgl-popup-content { background:#fff !important; color:#111 !important; border-radius:8px; font-size:14px; line-height:1.4; border:1px solid #ccc; }
     .mapboxgl-popup.light-popup .mapboxgl-popup-close-button { color:#111 !important; }
     .mapboxgl-popup-tip { border-top-color:#fff !important; }
+  /* Popup styling (light popup) */
+  .mapboxgl-popup.light-popup { background: #fff !important; color: #111 !important; }
+  .mapboxgl-popup.light-popup .mapboxgl-popup-content { background:#fff !important; color:#111 !important; border-radius:8px; font-size:14px; line-height:1.4; border:1px solid #ccc; }
+  .mapboxgl-popup.light-popup .mapboxgl-popup-close-button { color:#111 !important; }
+  .mapboxgl-popup-tip { border-top-color:#fff !important; }
+
+  /* --- Mobile polish (<= 920px) --- */
+  @media (max-width: 920px){
+    html, body { height: 100%; }
+    header { position: sticky; top: 0; z-index: 10; }
+    #app{
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-template-rows: auto 1fr;
+      min-height: calc(100vh - 56px);
+    }
+    #map{
+      position: relative;
+      height: calc(100vh - 56px); /* map fills the screen under header */
+    }
+    /* Make inputs & buttons easier to tap */
+    input[type="text"], button, .btn {
+      font-size: 16px;
+      min-height: 44px;
+      padding: 10px 14px;
+      border-radius: 12px;
+    }
+    /* Tighten panels a bit on small screens */
+    .panel { border-radius: 12px; }
+    .site h3 { font-size: 16px; }
+    .list { max-height: 45vh; -webkit-overflow-scrolling: touch; }
+  }
+</style>
+
   </style>
 </head>
 <body>
 <header>
-  <h1>Find a place to vote</h1>
+  <h1>Williamson County November 2025 Polling Locations</h1>
   <div class="legend">
     <span class="dot ev"></span><span class="muted">Early Voting</span>
     <span class="dot ed"></span><span class="muted">Election Day</span>
@@ -95,7 +129,6 @@
   </aside>
   <main><div id="map"></div></main>
 </div>
-
 <script>
 // ===== CONFIG =====
 const CONFIG = {
