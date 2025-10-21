@@ -1,81 +1,123 @@
-site_name,city,lat,lng,addr,zipcode,type,hours_ev,hours_ed,start_date,end_date,notes
-Anderson Mill Limited District Room A/B,Austin,30.45691,-97.81871,11500 El Salido Pkwy.,78750,early,,,,,
-Bethany United Methodist Church D105 Ministry Center,Austin,30.44819,-97.79859,10010 Anderson Mill Rd.,78750,e day,,,,,
-Courtyard Austin Lakeline Cedar Room,Austin,30.46635,-97.8013,12833 Ranch Road 620 N,78750,e day,,,,,
-Gateway Church Main Lobby,Austin,30.43711,-97.76462,7104 Mcneil Dr.,78729,e day,,,,,
-Harmony School Of Endeavor Gymnasium,Austin,30.47038,-97.78671,13415 Ranch Road 620 N,78717,e day,,,,,
-Hartfield Performing Arts Center Lobby,Austin,30.44759,-97.73561,5800 Mcneil Dr.,78729,early and e day,,,,,
-Kelly Reeves Athletic Complex Conference Room,Austin,30.49261,-97.77519,10211 W Parmer Ln.,78717,e day,,,,,
-Pinballz Lake Creek Purple Room,Austin,30.45998,-97.79022,13729 Research Blvd.,78750,e day,,,,,
-Rattan Creek Park Community Center Great Room,Austin,30.4483,-97.75719,7617 Elkhorn Mountain Trl.,78729,e day,,,,,
-Spicewood Springs Library Reading Room,Austin,30.4337,-97.77308,8637 Spicewood Springs Rd.,78759,e day,,,,,
-St. Vincent De Paul Catholic Church Portable Bldg. 1 & 2,Austin,30.48826,-97.76356,9500 Neenah Ave.,78717,e day,,,,,
-Bartlett City Hall Town Hall,Bartlett,30.79614,-97.42966,140 W Clark St.,76511,e day,,,,,
-Cedar Park Recreation Center Community Room (Early Vote) & San Gabriel Room (Election Day),Cedar Park,30.52695,-97.82585,1435 Main St,78613,early and e day,M-F 8am-6pm; Sat 9am-2pm,7am-7pm,Oct 21,Nov 5,
-Austin Sports Center Large Saq,Cedar Park,30.54372,-97.77715,1420 Toro Grande Blvd.,78613,e day,,,,,
-Acc Cypress Creek Room 1102,Cedar Park,30.47998,-97.83508,1555 Cypress Creek Rd.,78613,early and e day,,,,,
-Hyatt Place Of Cedar Park Pac Twin Lakes Meeting Se 1,Cedar Park,30.53711,-97.81438,1315 E New Hope Dr.,78613,e day,,,,,
-Islamic Center Of Brushy Creek Old White Building,Cedar Park,30.50811,-97.79218,1950 Brushy Creek Rd.,78613,e day,,,,,
-Lakeline Oaks Community Room (Early Vote) & Boardroom (Election Day),Cedar Park,30.47485,-97.82379,1000 Old Mill Rd,78613,early,,,,,
-Lisd Child Nutrition Services Room 203,Cedar Park,30.52848,-97.86133,1900 Cougar Country Dr.,78613,e day,,,,,
-Reagan Elementary School Gymnasium,Cedar Park,30.51477,-97.79661,1700 E Park St.,78613,e day,,,,,
-Staybridge Suites Cedar Park Boardroom,Cedar Park,30.53143,-97.80108,1110 Arrow Point Dr.,78613,early and e day,,,,,
-The Springs Healthcare & Rehabilitation Main Lobby,Cedar Park,30.53518,-97.80816,1500 Cottonwood Creek Trl.,78613,e day,,,,,
-Treasure Of The Hills Senior Center Tv/Game Room,Cedar Park,30.50221,-97.82705,408 Ridgewood Dr.,78613,e day,,,,,
-"Unity Recreation Center Ste 101, 102, 103",Cedar Park,30.47612,-97.8202,820 Old Mill Rd.,78613,e day,,,,,
-St Peter'S Church Of Coupland Fellowship Hall,Coupland,30.45794,-97.39092,108 Wathen St.,78615,e day,,,,,
-Andice Community Center Main Classroom,Florence,30.82989,-97.80422,6600 Fm 970,76527,e day,,,,,
-Florence City Hall Council Chambers,Florence,30.78198,-97.85518,851 Fm 970,76527,early and e day,,,,,
-Carver Center For Families Brightwell Room,Georgetown,30.62822,-97.68631,1200 W 17Th St.,78626,e day,,,,,
-Emmaus Church Of Georgetown Atrium,Georgetown,30.63881,-97.60687,5060 E Hwy 29,78626,e day,,,,,
-Fire Station 6 Community Room,Georgetown,30.71307,-97.76344,6700 Williams Dr,78633,early and e day,,,,,
-Georgetown Annex Room 108,Georgetown,30.6159,-97.6584,100 Wilco Way,78626,early and e day,,,,,
-Georgetown City Hall Community Room,Georgetown,30.63631,-97.68106,808 Martin Luther King Jr St,78626,early and e day,,,,,
-Georgetown Isd Technology Bldg. Conference Room,Georgetown,30.66835,-97.68882,603 Lakeway Dr,78628,early and e day,,,,,
-Hammerlun Center For Leadership And Learning Cafeteria,Georgetown,30.63382,-97.67256,507 E University Ave.,78626,early and e day,,,,,
-Heritage Baptist Church Room 103,Georgetown,30.66581,-97.64829,1601 Fm 971,78626,e day,,,,,
-Northstar Georgetown Great Room,Georgetown,30.59038,-97.6541,2401 Westinghouse Rd.,78626,e day,,,,,
-San Gabriel Masonic Lodge 89 Dining Area,Georgetown,30.64951,-97.66781,992 N College St.,78633,e day,,,,,
-Southwestern University Howry Center,Georgetown,30.63692,-97.66285,1001 Southwestern Blvd.,78626,e day,,,,,
-The Delaney At Georgetown Village Great Hall,Georgetown,30.69594,-97.71078,359 Village Commons Blvd.,78633,e day,,,,,
-The Oaks Community Center - Sun City Main Room,Georgetown,30.71291,-97.71827,301 Del Webb Blvd.,78633,early and e day,,,,,
-Wilco Central Maintenance Facility Training Room,Georgetown,30.62683,-97.64416,3151 Se Inner Loop,78626,e day,,,,,
-Granger City Hall Lobby,Granger,30.71732,-97.4408,214 E Davilla St.,76530,e day,,,,,
-Hutto City Hall Council Chambers,Hutto,30.5453,-97.55194,500 W Live Oak St,78634,early and e day,,,,,
-Hutto Isd Admin Building Boardroom,Hutto,30.54513,-97.54307,200 College St.,78634,e day,,,,,
-New Hope Christian Church Worship Center,Hutto,30.51547,-97.5375,9850 Fm 1660,78634,e day,,,,,
-Wilco Hutto Annex Suite 200,Hutto,30.54425,-97.56257,321 Ed Schmidt Blvd.,78634,e day,,,,,
-Cool Water Mud Clubhouse,Jarrell,30.80908,-97.60431,401 Fighting Seabees Run,76537,e day,,,,,
-Jarrell Memorial Park Community Center,Jarrell,30.83673,-97.62155,1651 Cr 305,76537,e day,,,,,
-Sonterra Hoa Pool & Clubhouse,Jarrell,30.80908,-97.60431,510 Sonterra Blvd,76537,early and e day,,,,,
-Pat Bryson Municipal Hall Council Chambers,Leander,30.57935,-97.85455,201 N Brushy St,78641,early and e day,M-F 8am-6pm; Sat 9am-2pm,7am-7pm,Oct 20,Nov 4,
-First Baptist Church Gymnasium,Leander,30.58374,-97.84092,10000 FM 2243,78641,e day,,7am-7pm,Nov 4,Nov 4,
-ACC San Gabriel Multi-purpose Room,Leander,30.58801,-97.85039,449 San Gabriel Campus Dr.,78641,e day,,7am-7pm,Nov 4,Nov 4,
-Acc San Gabriel Multipurpose Room,Leander,30.58801,-97.85039,449 San Gabriel Campus Dr.,78641,e day,,,,,
-Danielson Middle School 1203 Lecture Hall,Leander,30.60283,-97.88081,1061 Collaborative Way,78641,e day,,,,,
-Larkspur Elementary School Gymnasium,Leander,30.62925,-97.85171,424 Rusk Bluff Ave.,78641,e day,,,,,
-Park At Crystal Falls Clubhouse,Leander,30.56808,-97.82556,7860 183A Toll Rd.,78641,e day,,,,,
-Stiles Middle School Gymnasium,Leander,30.56,-97.79125,3250 Barley Rd.,78641,e day,,,,,
-Tarvin Elementary School Gymnasium,Leander,30.60453,-97.82781,1280 Logan Del Way,78641,e day,,,,,
-Wilco Parks & Recreation Meeting Room,Leander,30.56133,-97.76725,219 Perry Mayfield Blvd,78641,e day,,,,,
-Liberty Hill High School Auditorium,Liberty Hill,30.6825,-97.954,16500 W Sh 29,78642,e day,,,,,
-Liberty Hill Isd Gym Annex Gymnasium,Liberty Hill,30.66646,-97.92143,301 Forrest St,78642,early and e day,,,,,
-Santa Rita Ranch Great Room,Liberty Hill,30.66607,-97.83817,175 Elizabeth Park Blvd.,78642,e day,,,,,
-Allen R Baca Center,Round Rock,30.50642,-97.68131,301 W Bagdad Ave.,78664,early and e day,,7am-7pm,Nov 4,Nov 4,
-Brushy Creek Mud Community Center Maple Room,Round Rock,30.49573,-97.73555,16318 Great Oaks Dr,78681,early and e day,,,,,
-Cedar Ridge High School Auditorium Auditorium,Round Rock,30.49339,-97.64041,2801 Gattis School Rd.,78664,e day,,,,,
-Faith Baptist Church Of Round Rock Meeting Room,Round Rock,30.4967,-97.61871,3625 Gattis School Rd.,78664,e day,,,,,
-"Fern Bluff Mud Community Center Canyon Room,",Round Rock,30.51844,-97.71893,7320 Wyoming Springs Dr.,78681,e day,,,,,
-Palm Valley Lutheran Church Back Porch Bldg.,Round Rock,30.52256,-97.64587,2500 E Palm Valley Blvd.,78665,e day,,,,,
-Radiant Church The Living Room Ste 109,Round Rock,30.51106,-97.69429,1205 Round Rock Ave,78664,e day,,,,,
-Round Rock Presbyterian Church Fellowship Hall,Round Rock,30.53553,-97.74108,4010 Sam Bass Rd.,78681,e day,,,,,
-Round Rock Sports Center Tournament Room,Round Rock,30.53898,-97.69749,2400 Chisholm Trl.,78681,e day,,,,,
-Sleep Inn & Suites Meeting Room,Round Rock,30.49186,-97.67862,1980 S Ih 35,78681,e day,,,,,
-South University Room 110,Round Rock,30.47943,-97.68994,1220 W Louis Henna Blvd.,78681,e day,,,,,
-Texas State University Round Rock Avery Bldg. Room 256,Round Rock,30.5683,-97.65539,1555 University Blvd,78665,e day,,,,,
-Wilco Jester Annex Anderson & Harrell Rooms,Round Rock,30.53907,-97.66028,1801 E Old Settlers Blvd.,78664,early and e day,,,,,
-Taylor City Hall Auditorium,Taylor,30.57135,-97.40811,400 Porter St,76574,early and e day,,,,,
-Taylor Isd Event Center,Taylor,30.59319,-97.4146,3101 N Main St.,76574,e day,,,,,
-St John Lutheran Church Education Center,Thrall,30.5874,-97.29771,409 S Main St.,76578,e day,,,,,
-Walburg Community Center Main Room,Walburg,30.73632,-97.58413,4000 Fm 972,78626,e day,,,,,
-Community Bible Church Of Weir Fellowship Hall,Weir,30.67691,-97.58761,315 Fm 1105,78626,e day,,,,,
+site_name,addr,city,zipcode,lat,lng,type,hours_ev,hours_ed,start_date,end_date,notes
+Bethany United Methodist Church D105 Ministry Center,10010 Anderson Mill Rd.,Austin,78750,30.44819,-97.79859,e day,,Nov. 4: 7 AM–7 PM,,,
+Courtyard Austin Lakeline Cedar Room,12833 Ranch Road 620 N,Austin,78750,30.46635,-97.8013,e day,,Nov. 4: 7 AM–7 PM,,,
+Gateway Church Main Lobby,7104 Mcneil Dr.,Austin,78729,30.43711,-97.76462,e day,,Nov. 4: 7 AM–7 PM,,,
+Harmony School Of Endeavor Gymnasium,13415 Ranch Road 620 N,Austin,78717,30.47038,-97.78671,e day,,Nov. 4: 7 AM–7 PM,,,
+Kelly Reeves Athletic Complex Conference Room,10211 W Parmer Ln.,Austin,78717,30.49261,-97.77519,e day,,Nov. 4: 7 AM–7 PM,,,
+Pinballz Lake Creek Purple Room,13729 Research Blvd.,Austin,78750,30.45998,-97.79022,e day,,Nov. 4: 7 AM–7 PM,,,
+Rattan Creek Park Community Center Great Room,7617 Elkhorn Mountain Trl.,Austin,78729,30.4483,-97.75719,e day,,Nov. 4: 7 AM–7 PM,,,
+Spicewood Springs Library Reading Room,8637 Spicewood Springs Rd.,Austin,78759,30.4337,-97.77308,e day,,Nov. 4: 7 AM–7 PM,,,
+St. Vincent De Paul Catholic Church Portable Bldg. 1 & 2,9500 Neenah Ave.,Austin,78717,30.48826,-97.76356,e day,,Nov. 4: 7 AM–7 PM,,,
+Bartlett City Hall Town Hall,140 W Clark St.,Bartlett,76511,30.79614,-97.42966,e day,,Nov. 4: 7 AM–7 PM,,,
+Austin Sports Center Large Saq,1420 Toro Grande Blvd.,Cedar Park,78613,30.54372,-97.77715,e day,,Nov. 4: 7 AM–7 PM,,,
+Hyatt Place Of Cedar Park Pac Twin Lakes Meeting Se 1,1315 E New Hope Dr.,Cedar Park,78613,30.53711,-97.81438,e day,,Nov. 4: 7 AM–7 PM,,,
+Islamic Center Of Brushy Creek Old White Building,1950 Brushy Creek Rd.,Cedar Park,78613,30.50811,-97.79218,e day,,Nov. 4: 7 AM–7 PM,,,
+Lisd Child Nutrition Services Room 203,1900 Cougar Country Dr.,Cedar Park,78613,30.52848,-97.86133,e day,,Nov. 4: 7 AM–7 PM,,,
+Reagan Elementary School Gymnasium,1700 E Park St.,Cedar Park,78613,30.51477,-97.79661,e day,,Nov. 4: 7 AM–7 PM,,,
+The Springs Healthcare & Rehabilitation Main Lobby,1500 Cottonwood Creek Trl.,Cedar Park,78613,30.53518,-97.80816,e day,,Nov. 4: 7 AM–7 PM,,,
+Treasure Of The Hills Senior Center Tv/Game Room,408 Ridgewood Dr.,Cedar Park,78613,30.50221,-97.82705,e day,,Nov. 4: 7 AM–7 PM,,,
+"Unity Recreation Center Ste 101, 102, 103",820 Old Mill Rd.,Cedar Park,78613,30.47612,-97.8202,e day,,Nov. 4: 7 AM–7 PM,,,
+St Peter'S Church Of Coupland Fellowship Hall,108 Wathen St.,Coupland,78615,30.45794,-97.39092,e day,,Nov. 4: 7 AM–7 PM,,,
+Andice Community Center Main Classroom,6600 Fm 970,Florence,76527,30.82989,-97.80422,e day,,Nov. 4: 7 AM–7 PM,,,
+Carver Center For Families Brightwell Room,1200 W 17Th St.,Georgetown,78626,30.62822,-97.68631,e day,,Nov. 4: 7 AM–7 PM,,,
+Emmaus Church Of Georgetown Atrium,5060 E Hwy 29,Georgetown,78626,30.63881,-97.60687,e day,,Nov. 4: 7 AM–7 PM,,,
+Heritage Baptist Church Room 103,1601 Fm 971,Georgetown,78626,30.66581,-97.64829,e day,,Nov. 4: 7 AM–7 PM,,,
+Northstar Georgetown Great Room,2401 Westinghouse Rd.,Georgetown,78626,30.59038,-97.6541,e day,,Nov. 4: 7 AM–7 PM,,,
+San Gabriel Masonic Lodge 89 Dining Area,992 N College St.,Georgetown,78633,30.64951,-97.66781,e day,,Nov. 4: 7 AM–7 PM,,,
+Southwestern University Howry Center,1001 Southwestern Blvd.,Georgetown,78626,30.63692,-97.66285,e day,,Nov. 4: 7 AM–7 PM,,,
+The Delaney At Georgetown Village Great Hall,359 Village Commons Blvd.,Georgetown,78633,30.69594,-97.71078,e day,,Nov. 4: 7 AM–7 PM,,,
+Wilco Central Maintenance Facility Training Room,3151 Se Inner Loop,Georgetown,78626,30.62683,-97.64416,e day,,Nov. 4: 7 AM–7 PM,,,
+Granger City Hall Lobby,214 E Davilla St.,Granger,76530,30.71732,-97.4408,e day,,Nov. 4: 7 AM–7 PM,,,
+Hutto Isd Admin Building Boardroom,200 College St.,Hutto,78634,30.54513,-97.54307,e day,,Nov. 4: 7 AM–7 PM,,,
+New Hope Christian Church Worship Center,9850 Fm 1660,Hutto,78634,30.51547,-97.5375,e day,,Nov. 4: 7 AM–7 PM,,,
+Wilco Hutto Annex Suite 200,321 Ed Schmidt Blvd.,Hutto,78634,30.54425,-97.56257,e day,,Nov. 4: 7 AM–7 PM,,,
+Cool Water Mud Clubhouse,401 Fighting Seabees Run,Jarrell,76537,30.80908,-97.60431,e day,,Nov. 4: 7 AM–7 PM,,,
+Jarrell Memorial Park Community Center,1651 Cr 305,Jarrell,76537,30.83673,-97.62155,e day,,Nov. 4: 7 AM–7 PM,,,
+First Baptist Church Gymnasium,10000 FM 2243,Leander,78641,30.58374,-97.84092,e day,,Nov. 4: 7 AM–7 PM,Nov 4,Nov 4,
+ACC San Gabriel Multi-purpose Room,449 San Gabriel Campus Dr.,Leander,78641,30.58801,-97.85039,e day,,Nov. 4: 7 AM–7 PM,Nov 4,Nov 4,
+Acc San Gabriel Multipurpose Room,449 San Gabriel Campus Dr.,Leander,78641,30.58801,-97.85039,e day,,Nov. 4: 7 AM–7 PM,,,
+Danielson Middle School 1203 Lecture Hall,1061 Collaborative Way,Leander,78641,30.60283,-97.88081,e day,,Nov. 4: 7 AM–7 PM,,,
+Larkspur Elementary School Gymnasium,424 Rusk Bluff Ave.,Leander,78641,30.62925,-97.85171,e day,,Nov. 4: 7 AM–7 PM,,,
+Park At Crystal Falls Clubhouse,7860 183A Toll Rd.,Leander,78641,30.56808,-97.82556,e day,,Nov. 4: 7 AM–7 PM,,,
+Stiles Middle School Gymnasium,3250 Barley Rd.,Leander,78641,30.56,-97.79125,e day,,Nov. 4: 7 AM–7 PM,,,
+Tarvin Elementary School Gymnasium,1280 Logan Del Way,Leander,78641,30.60453,-97.82781,e day,,Nov. 4: 7 AM–7 PM,,,
+Wilco Parks & Recreation Meeting Room,219 Perry Mayfield Blvd,Leander,78641,30.56133,-97.76725,e day,,Nov. 4: 7 AM–7 PM,,,
+Liberty Hill High School Auditorium,16500 W Sh 29,Liberty Hill,78642,30.6825,-97.954,e day,,Nov. 4: 7 AM–7 PM,,,
+Santa Rita Ranch Great Room,175 Elizabeth Park Blvd.,Liberty Hill,78642,30.66607,-97.83817,e day,,Nov. 4: 7 AM–7 PM,,,
+Cedar Ridge High School Auditorium Auditorium,2801 Gattis School Rd.,Round Rock,78664,30.49339,-97.64041,e day,,Nov. 4: 7 AM–7 PM,,,
+Faith Baptist Church Of Round Rock Meeting Room,3625 Gattis School Rd.,Round Rock,78664,30.4967,-97.61871,e day,,Nov. 4: 7 AM–7 PM,,,
+"Fern Bluff Mud Community Center Canyon Room,",7320 Wyoming Springs Dr.,Round Rock,78681,30.51844,-97.71893,e day,,Nov. 4: 7 AM–7 PM,,,
+Palm Valley Lutheran Church Back Porch Bldg.,2500 E Palm Valley Blvd.,Round Rock,78665,30.52256,-97.64587,e day,,Nov. 4: 7 AM–7 PM,,,
+Radiant Church The Living Room Ste 109,1205 Round Rock Ave,Round Rock,78664,30.51106,-97.69429,e day,,Nov. 4: 7 AM–7 PM,,,
+Round Rock Presbyterian Church Fellowship Hall,4010 Sam Bass Rd.,Round Rock,78681,30.53553,-97.74108,e day,,Nov. 4: 7 AM–7 PM,,,
+Round Rock Sports Center Tournament Room,2400 Chisholm Trl.,Round Rock,78681,30.53898,-97.69749,e day,,Nov. 4: 7 AM–7 PM,,,
+Sleep Inn & Suites Meeting Room,1980 S Ih 35,Round Rock,78681,30.49186,-97.67862,e day,,Nov. 4: 7 AM–7 PM,,,
+South University Room 110,1220 W Louis Henna Blvd.,Round Rock,78681,30.47943,-97.68994,e day,,Nov. 4: 7 AM–7 PM,,,
+Texas State University Round Rock Avery Bldg. Room 256,1555 University Blvd,Round Rock,78665,30.5683,-97.65539,e day,,Nov. 4: 7 AM–7 PM,,,
+Taylor Isd Event Center,3101 N Main St.,Taylor,76574,30.59319,-97.4146,e day,,Nov. 4: 7 AM–7 PM,,,
+St John Lutheran Church Education Center,409 S Main St.,Thrall,76578,30.5874,-97.29771,e day,,Nov. 4: 7 AM–7 PM,,,
+Walburg Community Center Main Room,4000 Fm 972,Walburg,78626,30.73632,-97.58413,e day,,Nov. 4: 7 AM–7 PM,,,
+Community Bible Church Of Weir Fellowship Hall,315 Fm 1105,Weir,78626,30.67691,-97.58761,e day,,Nov. 4: 7 AM–7 PM,,,
+Anderson Mill Limited District Room A/B,11500 El Salido Pkwy.,Austin,78750,30.45691,sites,early,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",,,,
+Lakeline Oaks Community Room (Early Vote) & Boardroom (Election Day),1000 Old Mill Rd,Cedar Park,78613,30.47485,-97.82379,early,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",,,,
+Hartfield Performing Arts Center Lobby,5800 Mcneil Dr.,Austin,78729,30.44759,-97.73561,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,,,
+Cedar Park Recreation Center Community Room (Early Vote) & San Gabriel Room (Election Day),1435 Main St,Cedar Park,78613,30.52695,-97.82585,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,Oct 21,Nov 5,
+Acc Cypress Creek Room 1102,1555 Cypress Creek Rd.,Cedar Park,78613,30.47998,-97.83508,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,,,
+Staybridge Suites Cedar Park Boardroom,1110 Arrow Point Dr.,Cedar Park,78613,30.53143,-97.80108,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,,,
+Florence City Hall Council Chambers,851 Fm 970,Florence,76527,30.78198,-97.85518,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,,,
+Fire Station 6 Community Room,6700 Williams Dr,Georgetown,78633,30.71307,-97.76344,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,,,
+Georgetown Annex Room 108,100 Wilco Way,Georgetown,78626,30.6159,-97.6584,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,,,
+Georgetown City Hall Community Room,808 Martin Luther King Jr St,Georgetown,78626,30.63631,-97.68106,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,,,
+Georgetown Isd Technology Bldg. Conference Room,603 Lakeway Dr,Georgetown,78628,30.66835,-97.68882,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,,,
+Hammerlun Center For Leadership And Learning Cafeteria,507 E University Ave.,Georgetown,78626,30.63382,-97.67256,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,,,
+The Oaks Community Center - Sun City Main Room,301 Del Webb Blvd.,Georgetown,78633,30.71291,-97.71827,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,,,
+Hutto City Hall Council Chambers,500 W Live Oak St,Hutto,78634,30.5453,-97.55194,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,,,
+Sonterra Hoa Pool & Clubhouse,510 Sonterra Blvd,Jarrell,76537,30.80908,-97.60431,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,,,
+Pat Bryson Municipal Hall Council Chambers,201 N Brushy St,Leander,78641,30.57935,-97.85455,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,Oct 20,Nov 4,
+Liberty Hill Isd Gym Annex Gymnasium,301 Forrest St,Liberty Hill,78642,30.66646,-97.92143,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,,,
+Allen R Baca Center,301 W Bagdad Ave.,Round Rock,78664,30.50642,-97.68131,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,Nov 4,Nov 4,
+Brushy Creek Mud Community Center Maple Room,16318 Great Oaks Dr,Round Rock,78681,30.49573,-97.73555,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,,,
+Wilco Jester Annex Anderson & Harrell Rooms,1801 E Old Settlers Blvd.,Round Rock,78664,30.53907,-97.66028,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,,,
+Taylor City Hall Auditorium,400 Porter St,Taylor,76574,30.57135,-97.40811,early and e day,"Oct. 20–25: 8 AM–6 PM
+Oct. 26: 12 PM–6 PM
+Oct. 27–31: 7 AM–7 PM",Nov. 4: 7 AM–7 PM,,,
